@@ -1,0 +1,12 @@
+Category: Javascript
+Question: What is the definition of Async Await?
+Answer: Using a function, we can connect to data through the use of async, the await will await a event specified before finishing
+
+Category: C#
+Question: What makes C# different from Javascript?
+Answer: C# is a heavy type based language that allows for tighter security, typescript actually ends up being the perfect transition from js to c#
+
+Category: & c:/users/15412/appdata/local/programs/python/python312/python.exe c:/users/15412/desktop/automation/flashcards.py
+Question: Javascript
+Answer: nice
+
